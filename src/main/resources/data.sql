@@ -1,0 +1,10 @@
+INSERT INTO phone (brand, model, updated_on) VALUES ('Samsung', 'Galaxy S9', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Samsung', 'Galaxy S8', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Samsung', 'Galaxy S8', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Motorola', 'Nexus 6', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Oneplus', '9', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Apple', 'iPhone 13', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Apple', 'iPhone 12', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Apple', 'iPhone 11', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Apple', 'iPhone X', now());
+INSERT INTO phone (brand, model, updated_on) VALUES ('Nokia', '3310', now());
